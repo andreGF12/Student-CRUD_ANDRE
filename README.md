@@ -1,2 +1,2 @@
 # Student-CRUD_ANDRE
-el gara diops de la arena
+el gara dios de la arena
